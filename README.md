@@ -11,7 +11,7 @@
 
 <br>
 
-# PYTHON PROGRAMMING LAB
+# DESGIN AND ALGORITHM ANALYSIS LAB
 
 ### LAB RECORD
 
@@ -35,8 +35,6 @@ Lakshmangarh, Rajasthan
 ---
 
 <div style="page-break-after: always;"></div>
-
-# INDEX
 
 # INDEX
 
